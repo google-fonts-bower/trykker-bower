@@ -1,0 +1,17 @@
+{
+    "name": "trykker-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Magnus Gaarde"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/trykker-bower.git"
+    },
+    "description": "Trykker font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
